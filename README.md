@@ -1,4 +1,4 @@
-# ECG-Signal-Processing-and-QRS-Detection
+  # ECG-Signal-Processing-and-QRS-Detection
 This project focuses on ECG (Electrocardiogram) signal processing using the MIT-BIH Arrhythmia Database. The main objective is to detect QRS complexes and R-peaks from ECG signals, which are critical for heart rate and arrhythmia analysis.
 
 # Key Features
@@ -38,4 +38,4 @@ Squaring & moving window integration
 Thresholding for R-peak identification
 
 # Results
-<img width="600" height="400" alt="ECG SIGNAL COMPARISION" src="https://github.com/user-attachments/assets/32b0de2a-ffd9-4b41-bddc-8fc68d176fc2" /> ECG SIGNAL COMPARISION
+<img width="600" height="400" alt="ECG SIGNAL COMPARISION" src="https://github.com/user-attachments/assets/32b0de2a-ffd9-4b41-bddc-8fc68d176fc2" />     ECG SIGNAL COMPARISION
