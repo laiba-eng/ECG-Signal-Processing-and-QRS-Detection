@@ -38,4 +38,5 @@ Squaring & moving window integration
 Thresholding for R-peak identification
 
 # Results
-<img width="600" height="400" alt="ECG SIGNAL COMPARISION" src="https://github.com/user-attachments/assets/32b0de2a-ffd9-4b41-bddc-8fc68d176fc2" />ECG SIGNAL COMPARISION
+<img width="600" height="400" alt="ECG SIGNAL COMPARISION" src="https://github.com/user-attachments/assets/32b0de2a-ffd9-4b41-bddc-8fc68d176fc2" />ECG Signal Comparison <img width="600" height="400" alt="PEAK DETECTION RESULTS" src="https://github.com/user-attachments/assets/4084f609-aebb-495d-96a2-165772a4bce6" />Peak Detection Results
+
