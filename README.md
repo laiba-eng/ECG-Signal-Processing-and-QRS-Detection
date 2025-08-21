@@ -39,4 +39,7 @@ Thresholding for R-peak identification
 
 # Results
 <img width="600" height="400" alt="ECG SIGNAL COMPARISION" src="https://github.com/user-attachments/assets/32b0de2a-ffd9-4b41-bddc-8fc68d176fc2" />ECG Signal Comparison <img width="600" height="400" alt="PEAK DETECTION RESULTS" src="https://github.com/user-attachments/assets/4084f609-aebb-495d-96a2-165772a4bce6" />Peak Detection Results
+<img width="600" height="400" alt="DETECTION ALGORITHM VISUALIZATION" src="https://github.com/user-attachments/assets/f1f08ac3-f9b3-46aa-8384-22a1b68682bb" />Detection Algorithm Visualization <img width="600" height="400" alt="HEART RATE ANALYSIS" src="https://github.com/user-attachments/assets/cdacb194-299b-4e99-97d4-b724947327d1" />Heart Rate Analysis
+
+
 
